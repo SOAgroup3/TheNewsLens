@@ -1,3 +1,6 @@
+transtrans
+aaaaaaaaa
+
 require_relative 'scarpers.rb'
 
 newsfound = Scarper::NewsLens.getNews
